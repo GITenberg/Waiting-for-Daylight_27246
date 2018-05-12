@@ -1,0 +1,40 @@
+_repo: Waiting-for-Daylight_27246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tomlinson, H. M. (Henry Major)
+    alias: Tomlinson, Henry Major
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '5787'
+    url: http://www.gutenberg.org/2009/agents/5787
+    wikipedia: http://en.wikipedia.org/wiki/H._M._Tomlinson
+description: H. M. Tomlinson was a war correspondent for the British army in France
+  during World War I, an experience that made him fervently anti-war. Waiting for
+  Daylight , published shortly after World War I, is a memorable and penetrating collection
+  of essays about his experiences during the war and his reactions to modern warfare.
+gutenberg_issued: '2008-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27246'
+  lccn: '22011695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+- !lcsh 'World War, 1914-1918'
+tableOfContents: In Ypres -- A raid night -- Islands -- Travel books -- Signs of spring
+  -- Prose writing -- The modern mind -- Magazines -- The Marne -- Carlyle -- Holiday
+  reading -- An autumn morning -- News from the front -- Authors and soldiers -- Waiting
+  for daylight -- The nobodies -- Bookworms -- Sailor language -- Illusions -- Figure-heads
+  -- Economics -- Old sunlight -- Ruskin -- The reward of virtue -- Great statesmen
+  -- Joy -- The real thing -- Literary critics -- The south downs -- Kipling -- A
+  Devon estuary -- Barbellion -- Breaking the spell.
+title: Waiting for Daylight
+url: http://www.gutenberg.org/ebooks/27246
